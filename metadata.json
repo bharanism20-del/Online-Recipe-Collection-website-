@@ -1,0 +1,8 @@
+{
+  "name": "Remix L\u0027Atelier Culinaire",
+  "description": "An artisanal collection of chef-crafted recipes with dynamic ingredient scaling, kitchen timers, pantry search, and interactive meal planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
